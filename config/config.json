@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x99C4Ef704f3A6941Ad7E53540B2c2Ba206965d0d",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0x99c4ef704f3a6941ad7e53540b2c2ba206965d0d",
+  "NETWORK": {
+    "NAME": "BSC",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "PowerBall",
+  "SYMBOL": "PB",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 690000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
